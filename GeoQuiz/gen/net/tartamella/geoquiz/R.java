@@ -1239,9 +1239,11 @@ containing a value of this type.
         /**  Description of a share target (both in the list of such or the default share button) in a ShareActionProvider (share UI). [CHAR LIMIT=NONE] 
          */
         public static final int abc_shareactionprovider_share_with_application=0x7f0a000b;
-        public static final int action_settings=0x7f0a000f;
+        public static final int action_settings=0x7f0a000e;
         public static final int app_name=0x7f0a000d;
-        public static final int hello_world=0x7f0a000e;
+        public static final int false_button=0x7f0a0011;
+        public static final int question_text=0x7f0a000f;
+        public static final int true_button=0x7f0a0010;
     }
     public static final class style {
         /** 
